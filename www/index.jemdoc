@@ -28,11 +28,12 @@ Tsinghua University
 ~~~
 
 == Research Interests
-My research focuses on interpretable large language models for energy and transportation systems, including the following topics:
-- EV charging demand forecasting and explainable AI
-- Microgrid load-frequency control and intelligent power dispatch
-- Power systems with electrification and intelligent transportation
-- Energy Internet, particularly integrated energy and mobility systems
+My research interests lie at the convergence of artificial intelligence, power systems, and economics, with a focus on enabling the low-carbon transition of the energy sector. Key areas include:
+- *Data-Driven Forecasting and Uncertainty Management for Modern Power Systems*: Renewable Energy Power Forecasting; Short-term Load Prediction; Probabilistic Forecasting & Uncertainty Quantification; Big Data Analytics in Energy Systems.
+- *Electricity Markets and Quantitative Trading Strategies*: Electricity Price Forecasting; Market Clearing and Mechanism Design; Quantitative Trading and Risk Management; Carbon Market Analysis and Price Interaction.
+- *Integrated Energy Systems & Demand-Side Optimization*: Home Energy Management Systems; Demand Response & Flexible Load Scheduling; EV Charging Coordination & V2G Integration; Distributed Energy Resource Management.
+- *AI-Enabled Smart Energy System*: Large Language Models (LLMs) for Energy Systems; Explainable AI for Energy; Smart Meter Data Analytics and Load Monitoring; AI-driven Optimization for Adaptive Control.
+
 
 == Recent News
 - 2025-11-05, Received the Tsinghua University Second Class Scholarship (Top 5%).
