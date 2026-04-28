@@ -1,0 +1,26 @@
+# jemdoc: menu{MENU}{publications.html}
+= Publications
+
+== Journal Papers
+- \[1\] *Y. Lu* and L. Shi, /"An Enhanced Explainable Large Language Model-Based Framework for Electric Vehicle Charging Station Occupancy Prediction."/, Energy and AI, 2026.
+- \[2\] *Y. Lu*, P. Fan, J. Yang, et al., /"Intelligent Frequency Control Strategy for Electric Vehicle-Inclusive Islanded Microgrid Based on Proximal Policy Optimization Algorithm"/ \[J\]. Electric Power Automation Equipment, 2025, 45(10): 135-143.
+
+== Patents
+- \[1\] *Y. Lu*, S. Xiao, et al., /"A Monitoring System and Method for SF₆ Decomposition Products Based on Infrared Spectroscopy"/, Patent CN116337798A, 2025.
+- \[2\] K. Sun, *Y. Lu*, et al., /"A Smooth Switching-Based Fault Ride-Through Control Strategy for Direct-Drive Wind Turbines under Unbalanced Conditions"/, Patent CN115459344A, 2025.
+- \[3\] Y. Zhang, S. Xiao, Y. Li, *Y. Lu*, et al., /"A Sulfur Hexafluoride (SF₆) Decomposition Device"/, Patent CN115999358A, 2024.
+- \[4\] H. Zhou, S. Xiao, Y. Li, Y. Chen, Y. Yan, H. Yang, *Y. Lu*, et al., /"Application of a CuO/TiO₂/MgO/5Fe5Ce Catalyst for SF₆ Gas Decomposition under Atmospheric Pressure"/, Patent CN116392959A, 2026.
+
+== Projects
+
+*Optimal Operation of Variable-Speed Seawater Pumped Storage Units Integrated with Offshore Wind and Solar Power*, 2022.09-2023.10
+- Collected and curated typical daily generation datasets for wind and photovoltaic systems, ensuring data quality and representativeness for model development.
+- Developed mathematical models to simulate and forecast wind and solar power outputs under varying operating conditions.
+- Designed and implemented a coordinated optimization framework for the joint operation of variable-speed seawater pumped storage, offshore wind, and photovoltaic systems.
+- Evaluated system performance under different scenarios, improving operational efficiency and enhancing renewable energy utilization.
+
+*Flexible Control System of Regenerative Electric Heating Load for Renewable Energy Accommodation in Northern China*, 2021.09-2022.09
+- Applied state-space methods to solve steady-state differential equations of thermal dynamics in typical rooms.
+- Developed difference equation models to simulate and calculate 24-hour indoor temperature profiles, enabling the characterization of building thermal inertia.
+- Constructed an optimizable regulation and control model for regenerative electric heating loads, balancing user thermal comfort with energy efficiency.
+- Investigated the potential of large-scale electric heating loads for power grid peak shaving, providing strategic insights for enhancing the accommodation of volatile renewable energy.

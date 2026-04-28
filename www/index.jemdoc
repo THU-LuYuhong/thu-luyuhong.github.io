@@ -1,0 +1,55 @@
+# jemdoc: menu{MENU}{index.html}, showsource
+= Yuhong Lu
+{{<div style="height: 30px"></div>
+<div style='position: absolute; top: 15px; right: 250px'>
+    <a href="https://www.tsinghua.edu.cn/en/">
+        <img src="pic/THU.jpg" height="60">
+    </a>
+</div>
+<div style='position: absolute; top: 15px; right: 150px'>
+    <a href="https://www.whu.edu.cn/">
+        <img src="pic/WHU.png" height="60">
+    </a>
+</div>}}
+
+~~~
+{}{img_left}{pic/lyh.jpg}{alt text}{WIDTHpx}{200px}{index.html}
+
+Yuhong Lu | 卢昱宏
+
+M.E. Student
+
+Department of Electrical and Electronic Engineering
+
+Tsinghua University
+
+\[ [https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AEk_c1ucSgp-N2uauBEUMJTG9JoH3qP1BOaow0Y6mfCQlODFEF3rmlzCfMTL32tv8eTyTTBbZRguiLyPWvBjFZBCBmg&user=q1xqL6QAAAAJ Google Scholar] \]
+\[ [static/YonghengWang_CV.pdf Resume] \]
+~~~
+
+== Research Interests
+My research focuses on interpretable large language models for energy and transportation systems, including the following topics:
+- EV charging demand forecasting and explainable AI
+- Microgrid load-frequency control and intelligent power dispatch
+- Power systems with electrification and intelligent transportation
+- Energy Internet, particularly integrated energy and mobility systems
+
+== Recent News
+- 2025-11-05, Received the Tsinghua University Second Class Scholarship (Top 5%).
+- 2024-09-01, Started my M.E. program at Tsinghua University.
+- 2024-06-24, Graduated from Wuhan University as an Outstanding Bachelor's Graduate (Top 1%).
+- 2024-06-28, Awarded "Outstanding Undergraduate Thesis" (Top 1%) at Wuhan University.
+
+== Favorite Quotes
+- "Knowledge is power." — Francis Bacon
+- "In skating over thin ice, our safety is in our speed." — Ralph Waldo Emerson
+
+== Contact
+- Phone: (+86) 156-2356-1516
+- Email: lu-yh24@mails.tsinghua.edu.cn
+- Address: Tsinghua Univ, Tsinghua Shenzhen Int Grad Sch, Shenzhen, Peoples R China
+
+== Visitors
+
+{{<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=dddddd&w=300&t=tt&d=487eny22cGJNDCB79K94xpp3YbiK32bNW9r1rUWb8IA&co=ffffff&cmo=aa95aa&cmn=a7acb5&ct=000000'></script>}}
+
