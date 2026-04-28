@@ -1,1 +1,7 @@
 # Thu-LuYuhong.github.io
+# README
+## How to compile this project
+```
+cd www
+python ../jemdoc.py -c jemdoc.conf -o ../html/  *.jemdoc
+```
