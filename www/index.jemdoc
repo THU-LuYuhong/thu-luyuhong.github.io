@@ -29,11 +29,10 @@ Tsinghua University
 
 == Research Interests
 My research interests lie at the convergence of artificial intelligence, power systems, and economics, with a focus on enabling the low-carbon transition of the energy sector. Key areas include:
-- *Learning and Control of Energy Dynamical Systems*: Model-Based and Model-Free Reinforcement Learning; Model Predictive Control; Safe Learning-Based Control; Online and Offline Learning; Applications to Smart Grids, Buildings, and Distributed Energy Systems.
-- *Reinforcement Learning for Reliable Energy Cyber-Physical Systems*: Safe Reinforcement Learning; Offline and Online Reinforcement Learning; Markov Decision Processes; Multi-Agent Reinforcement Learning;
-- *AI-Enabled Smart Buildings and Demand-Side Energy Systems*: Home and Building Energy Management Systems; Human-Centric Energy Control; Demand Response; EV Charging and V2G Coordination; Adaptive Scheduling under Comfort, Cost, and Carbon Constraints.
-- *Agentic and Physical AI for Energy Systems*: Large Language Models for Energy Systems; Tool-Augmented AI Agents; Explainable and Verifiable AI; Human-AI Collaborative Decision-Making; AI-Driven Control for Decarbonized Energy Systems.
-
+- *Data-Driven Forecasting and Uncertainty Management for Modern Power Systems*: Renewable Energy Power Forecasting; Short-term Load Prediction; Probabilistic Forecasting & Uncertainty Quantification; Big Data Analytics in Energy Systems.
+- *Electricity Markets and Quantitative Trading Strategies*: Electricity Price Forecasting; Market Clearing and Mechanism Design; Quantitative Trading and Risk Management; Carbon Market Analysis and Price Interaction.
+- *Integrated Energy Systems & Demand-Side Optimization*: Home Energy Management Systems; Demand Response & Flexible Load Scheduling; EV Charging Coordination & V2G Integration; Distributed Energy Resource Management.
+- *AI-Enabled Smart Energy System: Large Language Models (LLMs) for Energy Systems*; Explainable AI for Energy; Smart Meter Data Analytics and Load Monitoring; AI-driven Optimization for Adaptive Control.
 
 == Recent News
 - 2025-11-05, Received the Tsinghua University Second Class Scholarship (Top 5%).
